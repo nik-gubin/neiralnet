@@ -35,7 +35,6 @@ public class Program {
                 testBool(net, Integer.MAX_VALUE/40000, 0.9);
                 xmlp.setNetwork(net);
 		System.out.println(net3() + "\n3\n");
-                System.out.println("");
                 
     }
     
