@@ -6,7 +6,6 @@
 
 package app;
 
-import java.util.Scanner;
 import neuralnetwork.NeuralNetwork;
 import neuralnetwork.ValuesList;
 import neuralnetwork.activation.ActivationFunction;
